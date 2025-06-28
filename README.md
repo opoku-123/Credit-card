@@ -1,1 +1,1 @@
-# Credit-card
+A credit card site that sells credit cards. The front end entails a signup  form, a login form, an introductory interface for the site, the main page where the cards are found, a payment method page, ugrage account page, orders, my credit card. 
